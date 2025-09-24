@@ -331,7 +331,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Developer**: Pathik Chauhan   
 **LinkedIn**: www.linkedin.com/in/pathik-chauhan07  
 **GitHub**: https://github.com/Pathik0701
-
----
-
-**Note**: This project is developed for educational purposes to demonstrate comprehensive Java SE programming concepts including OOP principles, design patterns, advanced collections, file I/O, and modern Java features.
