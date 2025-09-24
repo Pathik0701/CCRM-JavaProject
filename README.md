@@ -52,7 +52,7 @@ CCRM is an educational management system that allows institutes to:
 
 2. **Clone the repository**:
    ```bash
-   git clone <your-repository-url>
+   git clone  https://github.com/Pathik0701/CCRM-JavaProject.git
    cd CCRM
    ```
 
